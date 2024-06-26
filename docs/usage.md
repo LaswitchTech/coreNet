@@ -18,7 +18,7 @@ $Net = new Net();
 ### Properties
 `Net` provides the following properties:
 
-- [Net](https://github.com/LaswitchTech/coreNet)
+- [Configurator](https://github.com/LaswitchTech/coreConfigurator)
 - [Logger](https://github.com/LaswitchTech/coreLogger)
 
 ### Methods
